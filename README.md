@@ -1,6 +1,6 @@
 # EMITRR
 
-Frontend : https://emptycup-gauravg.netlify.app/
+Frontend : [https://emptycup-gauravg.netlify.app/](https://emittr-gaurav.netlify.app/)
 
 # Installation
 
@@ -48,3 +48,8 @@ npm run start
 REACT_APP_BASE_URL="http://localhost:8000/"
 MONGO_URL="mongodb://localhost:27017/"
 ```
+![image](https://github.com/gaurav147-star/emitrr-frontend/assets/78996081/5b9d105c-0f81-410e-a990-8404687d5187)
+![image](https://github.com/gaurav147-star/emitrr-frontend/assets/78996081/22b752f5-30eb-4fa2-9973-093603135cca)
+![image](https://github.com/gaurav147-star/emitrr-frontend/assets/78996081/2f8338f0-f26c-48b7-bb4b-dd677b2ff384)
+
+
