@@ -1,6 +1,6 @@
 # EMITRR
 
-Frontend : [https://emptycup-gauravg.netlify.app/](https://emittr-gaurav.netlify.app/)
+Frontend : https://emittr-gaurav.netlify.app/
 
 # Installation
 
